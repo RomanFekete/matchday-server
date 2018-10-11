@@ -30,7 +30,7 @@ $ deactivate
 while virtualenv is active
 ```
 $ pip3 install django
-$ pip3 install django-rest-framework
+$ pip3 install djangorestframework
 $ pip3 install django-heroku
 $ pip3 install coreapi
 ```
